@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^VisiumWorkflow\.Rproj$
+^\.Rproj\.user$
